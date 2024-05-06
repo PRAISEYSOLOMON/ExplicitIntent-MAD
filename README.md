@@ -201,6 +201,14 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
+
+
+
+
+
+
+
+
 ![out 4 1](https://github.com/PRAISEYSOLOMON/ExplicitIntent-MAD/assets/119394259/716e1149-f3fc-41f4-9e90-099edbc17193)
 
 ![out 4 2](https://github.com/PRAISEYSOLOMON/ExplicitIntent-MAD/assets/119394259/1432bad8-4918-4363-a3e2-75723c66d7a3)
